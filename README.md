@@ -1,5 +1,4 @@
-# ReadMe.md
-## ElleHacks 2020 Project 
+# ElleHacks 2020 Project
 Revolutionizing the way we recycle - see change differently! 
 An end to end implemented Android application. 
 
@@ -30,8 +29,10 @@ git clone https://github.com/hanlinc27/ecolens.git
 
 ![screenshots](https://user-images.githubusercontent.com/19617248/73609896-f756d100-459f-11ea-9b6b-dd07fa4e110b.png)
 
+
+### Google Slides Presentation
+[View our pitch deck here](https://docs.google.com/presentation/d/1LfMc6McWfyTJ_kiFSJQ6GbfnBk9NROynrXSqpWp7BLU/edit?usp=sharing)
+
+
 Thank you for the mentors who assisted and the organizers for running this wonderful event! :) 
 Made with **<3** by Emma, Hanlin, Krystal, Mathurah
-
-
-
